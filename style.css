@@ -321,6 +321,8 @@ span{
     display: flex;
     align-items: center;
     margin-left: 365px;
+    position: absolute;
+    top: 194%;
     
 }
 .footimg{
@@ -342,4 +344,10 @@ span{
     padding: none;
     border: none;
     margin: none;
+}
+.heh
+{
+    position: absolute;
+    left: 21%;
+    top:199%;
 }
